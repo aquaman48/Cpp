@@ -1,3 +1,5 @@
+#An example of the Luhn formula for validating credit card numbers
+
 #include<iostream>
 using namespace std;
 	int main()
