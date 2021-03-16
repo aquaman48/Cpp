@@ -1,4 +1,5 @@
-//Week One Exercise Part 2 Question 5
+//Doing math in C++
+
 #include<iostream>
 using namespace std;
 int main()
