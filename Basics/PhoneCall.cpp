@@ -8,7 +8,7 @@ struct PhoneCall
     int Minutes;
 
 
-    //  float Minutes;
+    //<-remove if we want to change variable minutes to a float, should comment out int Minutes if use this, float Minutes;
 };
 
 int main()
@@ -20,9 +20,10 @@ int main()
     double PricePerMinute = .10;
 
     double costOfCall;
+// Ask user for number of minutes.
 
     cout << " Enter number of minutes ";
-
+//stores user inpout
     cin >> MyCallToGrandma.Minutes;
 
     cout << " The call is " << MyCallToGrandma.Minutes << " minutes " << endl;
