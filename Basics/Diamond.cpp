@@ -1,4 +1,4 @@
-//Question 3
+//diamond shape from input
 #include<iostream>
 using namespace std;
 int main()
