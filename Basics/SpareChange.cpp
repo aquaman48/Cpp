@@ -1,4 +1,4 @@
-//Question 12
+//use double data type for variable money and displays it on screen. 
 #include<iostream>
 using namespace std;
 int main()
