@@ -1,5 +1,5 @@
-//Week 2-PART 1: (A-Guided) - Making Decisions
-//Nicholas Waterman
+//Simple program to take users input of 2 numbers and states whether the first number input is larger or smaller than the second number. 
+
 #include<iostream>
 using namespace std;
 int main()
