@@ -1,6 +1,4 @@
-//Week 2-PART 2: (B) - Performing Loops
-//Question 7
-//Nicholas Waterman
+//Squares number and adds to table, example of a loop in C++
 #include<iostream>
 using namespace std;
 int main()

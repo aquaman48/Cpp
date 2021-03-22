@@ -1,6 +1,4 @@
-//Week 2-PART 1: (A-Guided) - Making Decisions 
-//Question 10
-//Nicholas Waterman
+//A simple program finding candidates for a seasonal job
 #include<iostream>
 using namespace std;
 int main()
