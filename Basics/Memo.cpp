@@ -1,5 +1,4 @@
-//Chapter 6 Exercise Question 2
-//Nicholas Waterman
+//A simple memo created in C++. We take the declared variable that is stored in the companyName() and iterate it in the display message to viewer. 
 #include<iostream>
 using namespace std;
 int main()
