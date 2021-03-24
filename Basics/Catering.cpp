@@ -1,6 +1,5 @@
-//Week 3-PART 1: (A-Guided) -Understanding Arrays, Strings, and Pointers
-//Exercise Question 10
-//Nicholas Waterman
+//Understanding Arrays, Strings, and Pointers
+
 #include<iostream>
 using namespace std;
 int main()
