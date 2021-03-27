@@ -1,6 +1,4 @@
-//Week 3 - PART 2: (B)-Using C++ Functions
-//Question 3
-//Nicholas Waterman
+//If error, will prompt user to enter valid number. 
 #include<iostream>
 using namespace std;
 int main()

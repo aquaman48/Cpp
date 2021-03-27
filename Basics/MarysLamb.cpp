@@ -1,6 +1,4 @@
-//Week 3-PART 2: (B) - Using C++ Functions
-//Question 1
-//Nicholas Waterman
+//Uses marysLamb() as a function and displays it on screen. 
 #include<iostream>
 using namespace std;
 int main()
