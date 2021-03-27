@@ -1,6 +1,5 @@
-//Week 3-PART 1: (A-Guided) -Understanding Arrays, Strings, and Pointers
-//Exercise Question 3
-//Nicholas Waterman
+//More practice with arrays, strings, and pointers in C++. 
+//This is a simple program to find the sales for a month. 
 #include<iostream>
 using namespace std;
 int main()
