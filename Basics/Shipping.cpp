@@ -1,6 +1,4 @@
-//Week 3-PART 1: (A-Guided) -Understanding Arrays, Strings, and Pointers
-//Exercise Question 8
-//Nicholas Waterman
+//Simple shipping method program. current program uses already designated values. 
 #include<iostream>
 using namespace std;
 int main()
