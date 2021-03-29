@@ -1,6 +1,4 @@
-//Week 3 - PART 2: (B)-Using C++ Functions
-//Question 3
-//Nicholas Waterman
+//Here is a C++ program that uses functions. As you can see we use the multiplicationTable and the variable num is for storing user input.
 #include<iostream>
 using namespace std;
 int main()
