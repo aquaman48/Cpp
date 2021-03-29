@@ -1,5 +1,4 @@
-//Week Three You Do it
-// Nicholas Waterman
+//Takes test score inputted by user and stores it. At the end returns average of up to 10 test scores. 
 #include<iostream>
 using namespace std;
 int main()
