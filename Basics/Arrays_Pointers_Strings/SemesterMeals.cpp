@@ -1,6 +1,4 @@
-//Week 3-PART 1: (A-Guided) -Understanding Arrays, Strings, and Pointers
-//Exercise Question 1
-//Nicholas Waterman
+//A simple program that deals with a meal plan for someone in college
 #include<iostream>
 using namespace std;
 int main()
