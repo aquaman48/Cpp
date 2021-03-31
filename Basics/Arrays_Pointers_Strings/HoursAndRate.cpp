@@ -1,5 +1,4 @@
-//Week 3 Day Two You Do It
-//Nicholas Waterman
+//Simple program that calculates pay at a given rate and for how many hours worked. 
 #include<iostream>
 using namespace std;
 int main()
