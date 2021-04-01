@@ -1,6 +1,4 @@
-//Week 3 - PART 2: (B)-Using C++ Functions
-//Question 10
-//Nicholas Waterman
+//A C++ program that incorporates the use of functions. Here we use the function quadruple to store and return the users numbers. 
 #include<iostream>
 using namespace std;
 int main()
