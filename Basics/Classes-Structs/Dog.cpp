@@ -1,6 +1,4 @@
-//Week 4 - PART 1: (A - Guided) - Understanding Classes
-//Question 4
-// Nicholas Waterman
+//An example of  a Dog class. Here we are taking information about a dog, and using the functions in the class to display them to user. 
 #include<iostream>
 #include<string>
 using namespace std;
