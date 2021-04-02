@@ -1,6 +1,4 @@
-//Week 4 - PART 1: (A - Guided) - Understanding Classes
-//Question 9A
-// Nicholas Waterman
+//This is a coffee class. In the private fields we have the "ingredients" and in public we will create the order.
 #include<iostream>
 using namespace std;
 class CoffeeOrder
