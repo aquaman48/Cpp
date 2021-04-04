@@ -1,6 +1,4 @@
-//Week 4-PART 2: (B) - Class Features and Design Issues
-//Question 5
-//Nicholas Waterman
+//Uses the previous built person class and gives them a savings account. 
 #include<iostream>
 #include<string>
 using namespace std;

@@ -1,6 +1,4 @@
-//Week 4-PART 2: (B) - Class Features and Design Issues
-//Question 3
-//Nicholas Waterman
+//Using classes to hold information. Example of a person class that displays persons name and zip code. 
 #include<iostream>
 #include<string>
 using namespace std;
