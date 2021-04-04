@@ -1,6 +1,4 @@
-// Week 4-PART 1: (A-Guided) - Understanding Classes
-//Question 1
-//Nicholas Waterman
+//Practice with classes. Uses movie information to fill in our class. 
 #include<iostream>
 #include<string>
 using namespace std;
