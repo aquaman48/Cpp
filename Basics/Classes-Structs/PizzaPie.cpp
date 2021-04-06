@@ -1,5 +1,4 @@
-//Week 4 You Do It Chapter 8
-//Nicholas Waterman
+//Hungry and want some pizza? Here is a class that makes a pizza and displays the price. 
 #include<iostream>
 #include<string>
 using namespace std;

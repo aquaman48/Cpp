@@ -1,6 +1,4 @@
-//Week 4-PART 2: (B) - Class Features and Design Issues
-//Question 8
-//Nicholas Waterman
+//This program here is an example of a Car Class. We are not using any car information, just counting cars at this stage. 
 #include<iostream>
 using namespace std;
 class Car
