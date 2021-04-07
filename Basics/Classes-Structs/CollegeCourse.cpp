@@ -1,5 +1,4 @@
-//Week 4 You Do it Chapter 7
-//Nicholas Waterman
+//This program makes use of a "college course" class. Shows information to a student looking up information about a class. 
 #include<iostream>
 #include<string>
 using namespace std;

@@ -1,5 +1,4 @@
-//Week 4 - PART 1: (A - Guided) - Understanding Classes
-//Question 8A
+//A program that uses a date class. We store the information in variables we want formatted and displayed as  a string on screen for users. 
 // Nicholas Waterman
 #include<iostream>
 #include<string>
