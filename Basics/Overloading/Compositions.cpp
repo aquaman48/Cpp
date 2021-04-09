@@ -1,6 +1,4 @@
-//Week 5-PART 1:(A-Guided) - Understanding Friends and Overloading Operators
-//Chapter 10 Question 3
-//Nicholas Waterman
+//Here we are overloading operators. Here we are dependent on user input on what the National Anthem they will see. 
 #include<iostream>
 #include<string>
 using namespace std;
