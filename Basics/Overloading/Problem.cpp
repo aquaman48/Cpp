@@ -1,6 +1,4 @@
-//Week 5-PART 2: (B) - Advanced topics
-//Part A
-//Nicholas Waterman
+//A "problem" in C++
 #include<iostream>
 using namespace std;
 class Problem
